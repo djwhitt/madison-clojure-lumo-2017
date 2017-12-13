@@ -1,0 +1,9 @@
+{
+  "name": "npm-cljs-example",
+  "version": "0.0.1",
+  "description": "NPM ClojureScript example",
+  "dependencies": {
+    "packed-printer": "^0.3.0"
+  },
+  "devDependencies": {}
+}
